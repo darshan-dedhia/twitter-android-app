@@ -35,7 +35,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://github.com/darshan-dedhia/twitter-android-app/blob/master/Twitter%201.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://github.com/darshan-dedhia/twitter-android-app/blob/master/Twitter%202.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 
 ## Notes
